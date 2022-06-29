@@ -1,0 +1,307 @@
+[06:47:47] [Server thread/INFO]: Starting minecraft server version 1.12
+[06:47:47] [Server thread/INFO]: Loading properties
+[06:47:47] [Server thread/INFO]: Default game type: SURVIVAL
+[06:47:47] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-596221b-9a1fc1e (MC: 1.12) (Implementing API version 1.12-R0.1-SNAPSHOT)
+[06:47:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:47:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:47:47] [Server thread/INFO]: Debug logging is disabled
+[06:47:47] [Server thread/INFO]: Generating keypair
+[06:47:47] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[06:47:48] [Server thread/INFO]: Using epoll channel type
+[06:47:48] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[06:47:48] [Server thread/INFO]: [WorkshopPlugin] Loading WorkshopPlugin v1.0.0
+[06:47:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:47:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:47:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:47:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:47:48] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[06:47:48] [Server thread/INFO]: Preparing level "world"
+[06:47:48] [Server thread/INFO]: -------- World Settings For [world] --------
+[06:47:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:47:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[06:47:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[06:47:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[06:47:48] [Server thread/INFO]: Max TNT Explosions: 100
+[06:47:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06:47:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:47:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[06:47:48] [Server thread/INFO]: View Distance: 16
+[06:47:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[06:47:48] [Server thread/INFO]: Mob Spawn Range: 4
+[06:47:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:47:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:47:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[06:47:48] [Server thread/INFO]: Random Lighting Updates: false
+[06:47:48] [Server thread/INFO]: Structure Info Saving: true
+[06:47:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[06:47:48] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[06:47:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:47:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[06:47:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[06:47:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[06:47:48] [Server thread/INFO]: Max TNT Explosions: 100
+[06:47:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06:47:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:47:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[06:47:48] [Server thread/INFO]: View Distance: 16
+[06:47:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[06:47:48] [Server thread/INFO]: Mob Spawn Range: 4
+[06:47:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:47:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:47:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[06:47:48] [Server thread/INFO]: Random Lighting Updates: false
+[06:47:48] [Server thread/INFO]: Structure Info Saving: true
+[06:47:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[06:47:48] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[06:47:48] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:47:48] [Server thread/INFO]: Item Despawn Rate: 6000
+[06:47:48] [Server thread/INFO]: Item Merge Radius: 2.5
+[06:47:48] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[06:47:48] [Server thread/INFO]: Max TNT Explosions: 100
+[06:47:48] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06:47:48] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:47:48] [Server thread/INFO]: Experience Merge Radius: 3.0
+[06:47:48] [Server thread/INFO]: View Distance: 16
+[06:47:48] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:47:48] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[06:47:48] [Server thread/INFO]: Mob Spawn Range: 4
+[06:47:48] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:47:48] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:47:48] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[06:47:48] [Server thread/INFO]: Random Lighting Updates: false
+[06:47:48] [Server thread/INFO]: Structure Info Saving: true
+[06:47:48] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[06:47:48] [Server thread/INFO]: Preparing start region for level 0 (Seed: 6825587954653108643)
+[06:47:49] [Server thread/INFO]: Preparing spawn area: 49%
+[06:47:50] [Server thread/INFO]: Preparing start region for level 1 (Seed: 6825587954653108643)
+[06:47:50] [Server thread/INFO]: Preparing start region for level 2 (Seed: 6825587954653108643)
+[06:47:50] [Server thread/INFO]: [WorkshopPlugin] Enabling WorkshopPlugin v1.0.0
+[06:47:50] [Server thread/INFO]: [WorkshopPlugin] WorkshopPlugin is enabled!
+[06:47:50] [Server thread/ERROR]: Error occurred while enabling WorkshopPlugin v1.0.0 (Is it up to date?)
+java.lang.NullPointerException: null
+	at com.github.hugobaret.pluginmc.WorkshopPlugin.onEnable(WorkshopPlugin.java:10) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:402) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugin(CraftServer.java:374) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at org.bukkit.craftbukkit.v1_12_R1.CraftServer.enablePlugins(CraftServer.java:323) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.t(MinecraftServer.java:421) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.l(MinecraftServer.java:382) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.a(MinecraftServer.java:337) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at net.minecraft.server.v1_12_R1.DedicatedServer.init(DedicatedServer.java:272) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at net.minecraft.server.v1_12_R1.MinecraftServer.run(MinecraftServer.java:544) [spigot_server-1.12.jar:git-Spigot-596221b-9a1fc1e]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[06:47:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:47:50] [Server thread/INFO]: Done (2.523s)! For help, type "help" or "?"
+[06:47:50] [Server thread/INFO]: Starting remote control listener
+[06:47:50] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25575
+[06:48:59] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[06:48:59] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[06:48:59] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:48:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:48:59] [Server thread/INFO]: Debug logging is disabled
+[06:48:59] [Server thread/INFO]: -------- World Settings For [world] --------
+[06:48:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:48:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[06:48:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[06:48:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[06:48:59] [Server thread/INFO]: Max TNT Explosions: 100
+[06:48:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06:48:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:48:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[06:48:59] [Server thread/INFO]: View Distance: 16
+[06:48:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[06:48:59] [Server thread/INFO]: Mob Spawn Range: 4
+[06:48:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:48:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:48:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[06:48:59] [Server thread/INFO]: Random Lighting Updates: false
+[06:48:59] [Server thread/INFO]: Structure Info Saving: true
+[06:48:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[06:48:59] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[06:48:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:48:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[06:48:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[06:48:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[06:48:59] [Server thread/INFO]: Max TNT Explosions: 100
+[06:48:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06:48:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:48:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[06:48:59] [Server thread/INFO]: View Distance: 16
+[06:48:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[06:48:59] [Server thread/INFO]: Mob Spawn Range: 4
+[06:48:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:48:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:48:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[06:48:59] [Server thread/INFO]: Random Lighting Updates: false
+[06:48:59] [Server thread/INFO]: Structure Info Saving: true
+[06:48:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[06:48:59] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[06:48:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[06:48:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[06:48:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[06:48:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[06:48:59] [Server thread/INFO]: Max TNT Explosions: 100
+[06:48:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[06:48:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[06:48:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[06:48:59] [Server thread/INFO]: View Distance: 16
+[06:48:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[06:48:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[06:48:59] [Server thread/INFO]: Mob Spawn Range: 4
+[06:48:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[06:48:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[06:48:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[06:48:59] [Server thread/INFO]: Random Lighting Updates: false
+[06:48:59] [Server thread/INFO]: Structure Info Saving: true
+[06:48:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[06:48:59] [Server thread/INFO]: [WorkshopPlugin] Disabling WorkshopPlugin v1.0.0
+[06:48:59] [Server thread/INFO]: [WorkshopPlugin] WorkshopPlugin is disabled!
+[06:48:59] [Server thread/INFO]: [WorkshopPlugin] Loading WorkshopPlugin v1.0.0
+[06:48:59] [Server thread/INFO]: [WorkshopPlugin] Enabling WorkshopPlugin v1.0.0
+[06:48:59] [Server thread/INFO]: [WorkshopPlugin] WorkshopPlugin is enabled!
+[06:48:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:48:59] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[06:49:09] [Server thread/INFO]: [0;36;1mMarvin -42![m
+[06:49:13] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[06:49:13] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[06:49:13] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[06:49:13] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[06:49:13] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[06:49:13] [Server thread/INFO]: [0;33;22mWorkshopPlugin: [0;37;1mAll commands for WorkshopPlugin[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/blockdata: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/entitydata: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/epitech: [0;37;1mVous donne -42 de la part de Marvin :)[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/minecraft:tell: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/restart: [0;37;1mRestarts the server[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/stats: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/testfor: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/testforblock: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/testforblocks: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/toggledownfall: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[06:49:13] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[06:49:17] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: /epitech [0;33;1m------------------------[m
+[06:49:17] [Server thread/INFO]: [0;33;22mDescription: [0;37;1mVous donne -42 de la part de Marvin :)[m
+[06:49:17] [Server thread/INFO]: [0;33;22mUsage: [0;37;1m/epitech[m
+[07:34:12] [Thread-3/INFO]: Stopping server
